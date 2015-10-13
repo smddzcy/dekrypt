@@ -6,7 +6,6 @@
  * @version 1.0
  * @author Samed Duzcay <samedduzcay@gmail.com>
  */
-
 class dekrypt
 {
 
@@ -358,10 +357,7 @@ class dekrypt
 
 }
 
-error_reporting(E_ERROR);
-
 $nl = PHP_EOL; // I just don't like using \n :)
-
 /**
  * Usage instructions printer
  */
@@ -392,7 +388,7 @@ function printSign($web = false)
 {
     global $nl;
     if ($web)
-        $nl = $nl . "<br/>";
+        $nl .= "<br/>";
     echo $nl;
     echo '####################################################' . $nl;
     echo '#     ##### #########     #     # ##### ##### #  # #' . $nl;
