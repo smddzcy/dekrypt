@@ -112,7 +112,7 @@ class dekrypt
      * }
      * }
      *
-     * for ($j = 0; $j < 26; $t++) {
+     * for ($j = 0; $j < 26; $j++) {
      * for ($i = 0; $i < 26; ++$i) {
      * if ($max < ($s[$j] += 0.01 * $c[$i] * $ratio[($i + $j) % 26])) {
      * $max = $s[$j];
