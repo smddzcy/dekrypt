@@ -1,5 +1,5 @@
 # dekrypt
-A decrypter&amp;decoder with multiple algorithm support, written in PHP with obj-oriented style
+A decrypter&amp;decoder with multiple algorithm support
 
 ## Usage
 This can only be used from terminal for now, maybe I'll add a web UI later (or maybe you can!).
