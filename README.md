@@ -1,5 +1,5 @@
 # dekrypt
-A decrypter&amp;decoder with multiple algorithm support
+A command-line tool for automatic decryption/decipher of a number of encryption/cipher algorithms.
 
 ## Usage
 This can only be used from terminal for now, maybe I'll add a web UI later (or maybe you can!).
